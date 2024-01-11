@@ -1,0 +1,11 @@
+
+
+The problem statement is as follows:
+a. Formulate the problem precisely, making only those distinctions necessary to ensure a valid solution. Draw a diagram of the PARTIAL state space.
+b. Implement and solve the problem using an Uninformed search strategy. BFS  
+c-Compare both search strategies against evaluation criteria
+
+1-Completeness: by displaying the path to the solution 
+2-Optimal: Display depth of the goal 
+3-Time complexity: total no of nodes expanded. Size of the closed list 
+4-Space Complexity: total no of nodes generated. Size of open list 
