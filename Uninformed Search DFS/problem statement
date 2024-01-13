@@ -1,0 +1,8 @@
+Water Jug Problem:
+You are given two jugs, a 4-gallon one and a 3-gallon one. Neither has any measuring markers on it.   
+There is a pump that can be used to fill the jugs with water.  How can you get exactly 2 gallons of water into the 4-gallon jug?
+
+1- Define Task Environment for the water jug agent
+2- Formulate the problem precisely, making only those distinctions necessary to ensure a valid solution. Draw a diagram of the complete state space.
+3- Implement and solve the problem using  DFS search algorithms. 
+4- Analyze the performance against Time, Space complexity. Show the intermediate status of OPEN and Close
