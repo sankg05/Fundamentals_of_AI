@@ -1,0 +1,4 @@
+Given Graph Solve it using the A* algorithm.
+Show the status of OPEN and Close at every intermediate stage.
+Show the solution path along with depth.
+Show no count of open nodes and closed nodes.
